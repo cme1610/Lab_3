@@ -1,0 +1,152 @@
+/* 
+    Created on : 02-oct-2021, 14:09:12
+    Author     : Charlie
+*/
+
+
+#contenido{
+     
+       width:600px;
+       height:600px;
+       padding:20px;
+       
+       border-radius: 45px 36px 20px 126px;
+       -moz-border-radius: 45px 36px 20px 126px;
+       -webkit-border-radius: 45px 36px 20px 126px;
+       border: 7px solid #858185;
+       
+       -webkit-box-shadow: 10px 10px 27px 9px rgba(0,0,0,0.75);
+       -moz-box-shadow: 10px 10px 27px 9px rgba(0,0,0,0.75);
+       box-shadow: 10px 10px 27px 9px rgba(0,0,0,0.75);
+   }
+
+
+#contenido #titulo h1{
+       
+       position: relative;
+       top: -40px;
+       
+       
+       color:#000000;
+       font-family: Aharoni;
+       font-size:40px;
+   }
+   
+#contenido #caja3{
+    
+    position:relative;
+    top:350px;
+    left:60px;
+    
+
+    width:90px;
+    height:90px;
+    padding:20px;
+       
+    border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    border: 11px solid #ff0000;
+    
+    background-color:#ff8787;
+   }
+#contenido #caja3 h1{
+       
+       top: -75px; 
+        
+       text-align: center;
+       color:white;
+       font-family: Arial Black;
+       font-size: 70px
+   }
+   
+   
+#contenido #caja2{
+       
+    position:absolute;
+    top:374px;
+    left:236px;
+    
+    width:130px;
+    height:203px;
+    padding:20px;
+
+    border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    border: 11px solid #009e3f;
+    
+    background-color:#87ff95;
+   }
+
+#contenido #caja2 h1{
+       
+       top: -75px; 
+        
+       text-align: center;
+       color:white;
+       font-family: Arial Black;
+       font-size: 70px
+   }
+   
+#contenido #caja1{
+    
+    position: relative;
+    top: 160px;
+    left: 380px;
+    
+      
+    width: 90px;
+    height: 130px;
+    padding: 20px;
+       
+    border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    border: 11px solid #00539c;
+    
+    background-color: #aac1e3;
+   }
+
+#contenido #caja1 h1{
+           
+       top: -75px; 
+        
+       text-align: center;
+       color:white;
+       font-family: Arial Black;
+       font-size: 70px
+   }
+   
+#contenido #persona{
+        
+        background-image:url('../images/person_2.jpg');        
+        position: relative; 
+        top: -270px;
+        left: 250px;
+        
+        
+        height: 150px;
+        width: 100px;
+   }
+   
+
+#contenido #copa{
+    
+        background-image:url('../images/trophy.jpg');        
+        position: relative; 
+        
+        top: -510px;
+        left: 210px;
+        
+        
+        height: 100px;
+        width: 75px;
+   }   
+   
+   .slideInDown{
+       
+        animation: slideInDown; 
+        animation-duration: 3s; 
+   } 
+   
